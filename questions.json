@@ -1,0 +1,26 @@
+[
+    {
+        "question":"how are you",
+        "choice1":"w",
+        "choice2":"e",
+        "choice3":"t",
+        "choice4":"r",
+        "answer":1
+    },
+    {
+        "question":"are you fine",
+        "choice1":"w",
+        "choice2":"e",
+        "choice3":"t",
+        "choice4":"r",
+        "answer":1
+    },
+    {
+        "question":"you are fine",
+        "choice1":"w",
+        "choice2":"e",
+        "choice3":"t",
+        "choice4":"r",
+        "answer":1
+    }
+]
