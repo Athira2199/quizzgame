@@ -25,7 +25,7 @@ if(optionValues[0]!="")
 if(optionValues[1]!="")
     url+=`category=${optionValues[1]}&`
 if(optionValues[2]!="")
-    url+=`difficulty=${optionVales[2]}&`
+    url+=`difficulty=${optionValues[2]}&`
 url+='type=multiple'
 let timeLeft=60*optionValues[0];
 let counter=0;
